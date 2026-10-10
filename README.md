@@ -26,13 +26,6 @@ The list is sealed on Stellar before the random number exists. A Soroban contrac
 - **dApps:** TypeScript, Vite, PixiJS, Stellar SDK, Freighter and Google sign-in with Pollar.
 - **AI automation:** n8n agents and workflows that save teams real hours.
 
-### 📦 Other projects
-
-| Project | What it is |
-|---|---|
-| [Tinku](https://github.com/nema1502/tinku) | Provably fair draws on Algorand, paid per request with x402 |
-| [RWA Launchpad](https://github.com/nema1502/rwa-launchpad-bootcamp) | Soroban starter for the Bolivia Stellar Smart Contract Bootcamp |
-
 ### 🎤 Community
 
 I organize tech events in Santa Cruz and La Paz: **19 events hosted** with n8n, Clerk, Chainlink, Supabase, Women Techmakers and Team1. That's where Tinkazo was born: someone always doubts the draw.
