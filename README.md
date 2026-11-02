@@ -16,7 +16,7 @@ Santa Cruz, Bolivia 🇧🇴, building for Latin America and the world
 
 **Your chapter, as a lesson video your students finish.**
 
-A teacher uploads a textbook chapter or types a topic, and Nemi turns it into a short animated lesson: illustrated scenes in one consistent style, diagrams whose parts light up exactly when the narrator names them, step-by-step math, Manim animations, quiz pauses and captions, with a local voice. The teacher edits every scene, Muse Spark watches the finished video and leaves notes pinned to the minute, and students get a link where the video stops at each quiz.
+A teacher uploads a textbook chapter or types a topic, and Nemi turns it into a short animated lesson: illustrated scenes in one consistent style, diagrams whose parts light up exactly when the narrator names them, step-by-step math, Manim animations, quiz pauses and captions, with a local voice. The teacher edits every scene. Muse Spark watches the finished video, leaves notes pinned to the minute and can fix them itself. Students get a link where the video stops at each quiz, and the teacher sees their answers with Muse Spark's advice on what to reteach.
 
 Built on Meta's Muse Spark, Muse Wonder, Muse Image, SAM 3.1 and Muse Voice Transcribe, with Manim and Remotion, in Spanish and English.
 
