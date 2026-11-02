@@ -16,13 +16,17 @@ Santa Cruz, Bolivia 🇧🇴, building for Latin America and the world
 
 **Your chapter, as a lesson video your students finish.**
 
-A teacher uploads a textbook chapter or types a topic, and Nemi turns it into a short animated lesson: illustrated scenes, diagrams whose parts light up exactly when the narrator names them, step-by-step math, Manim animations, quiz pauses and captions, with a local voice. The teacher edits every scene before the class sees it, and shares a link where students answer the quizzes.
+A teacher uploads a textbook chapter or types a topic, and Nemi turns it into a short animated lesson: illustrated scenes in one consistent style, diagrams whose parts light up exactly when the narrator names them, step-by-step math, Manim animations, quiz pauses and captions, with a local voice. The teacher edits every scene, Muse Spark watches the finished video and leaves notes pinned to the minute, and students get a link where the video stops at each quiz.
 
-Built on Meta's Muse Spark, Muse Image, SAM 3.1 and Muse Voice Transcribe, with Manim and Remotion.
+Built on Meta's Muse Spark, Muse Wonder, Muse Image, SAM 3.1 and Muse Voice Transcribe, with Manim and Remotion, in Spanish and English.
 
 <a href="https://github.com/nema1502/nemi"><img src="https://raw.githubusercontent.com/nema1502/nemi/main/docs/media/diagram.gif" alt="A volcano diagram whose parts light up as the narrator names them" width="640"></a>
 
-[**Watch a lesson**](https://nemi-eight.vercel.app/watch/demo) or read the [**code**](https://github.com/nema1502/nemi). Built for the Meta Global AI Developer Hackathon 2026.
+**Nemi for events.** The same engines for people who run hackathons and communities: bring your logos and Nemi drafts the launch kit, a 9-post Instagram grid that forms one picture, stories and WhatsApp statuses, a Luma cover, a profile picture and the copy for every network.
+
+<a href="https://nemi-eight.vercel.app/events"><img src="https://raw.githubusercontent.com/nema1502/nemi/main/docs/media/events.jpg" alt="An event launch kit made by Nemi: Instagram grid, story and Luma cover" width="640"></a>
+
+[**Watch a lesson**](https://nemi-eight.vercel.app/watch/demo), [**make an event kit**](https://nemi-eight.vercel.app/events) or read the [**code**](https://github.com/nema1502/nemi). Built for the Meta Global AI Developer Hackathon 2026.
 
 ---
 
