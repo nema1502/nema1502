@@ -18,7 +18,7 @@ Built on Meta's Muse Spark, Muse Image, SAM 3.1 and Muse Voice Transcribe, with 
 
 <a href="https://github.com/nema1502/nemi"><img src="https://raw.githubusercontent.com/nema1502/nemi/main/docs/media/diagram.gif" alt="A volcano diagram whose parts light up as the narrator names them" width="640"></a>
 
-[**Code**](https://github.com/nema1502/nemi) · Meta Global AI Developer Hackathon 2026
+[**Watch a lesson**](https://nemi-eight.vercel.app/watch/demo) · [**Code**](https://github.com/nema1502/nemi) · Meta Global AI Developer Hackathon 2026
 
 ---
 
