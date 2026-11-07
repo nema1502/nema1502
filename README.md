@@ -20,7 +20,7 @@ Free sign-up or a ticket, a pass whose QR changes every 20 seconds so a screensh
 
 <a href="https://rumbo-eventos.vercel.app"><img src="https://raw.githubusercontent.com/nema1502/rumbo/main/site/assets/mvp-en.jpg" alt="Rumbo at the door: the attendee's pass with its changing QR, and the volunteer's phone saying Checked in" width="640"></a>
 
-[**Try the sample event**](https://rumbo-eventos-app.vercel.app/e/hackaton-comunidad), [**create yours**](https://rumbo-eventos-app.vercel.app/admin), [**watch it in a minute**](https://rumbo-eventos.vercel.app/assets/mvp-en.mp4) or read the [**code**](https://github.com/nema1502/rumbo). Co-founded with [Guido Salazar](https://github.com/GuidoSV7).
+[**Try the sample event**](https://rumbo-eventos-app.vercel.app/e/hackaton-comunidad), [**create yours**](https://rumbo-eventos-app.vercel.app/admin), [**watch it in a minute**](https://rumbo-eventos.vercel.app/assets/mvp-en.mp4) or read the [**code**](https://github.com/nema1502/rumbo). Co-founded with [Guido Salazar](https://github.com/GuidoSV7), with [María Aguilera](https://www.linkedin.com/in/mar%C3%ADa-aguilera-82a494381/) on marketing and product.
 
 ---
 
